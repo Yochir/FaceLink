@@ -1,8 +1,11 @@
 # FaceLink
 
-Face tracking for VRChat from your Android phone. FaceLink tracks your face with the
-front camera and streams it to [VRCFaceTracking](https://github.com/benaclejames/VRCFaceTracking)
-on your PC.
+**On desktop: face tracking for VRChat from your Android phone.**
+
+FaceLink is made for playing VRChat on desktop, no VR headset needed. Stand your phone by
+your monitor and it tracks your face with the front camera, streaming it to
+[VRCFaceTracking](https://github.com/benaclejames/VRCFaceTracking) on your PC so your
+avatar's expressions, eyes and mouth follow yours.
 
 ## Download
 
@@ -30,7 +33,8 @@ Android 9 or newer, 64-bit.
    (VRChat must be running).
 4. Go LIVE on the phone, then start (or restart) VRCFaceTracking. The module waits up to
    15 seconds for the phone when VRCFaceTracking starts.
-5. Put the phone where it will sit while you play, then run **Face** calibration in Settings.
+5. Put the phone where it will sit while you play (next to or under your monitor works well),
+   then run **Face** calibration in Settings.
 
 ## Updating
 
