@@ -23,10 +23,9 @@ Android 9 or newer, 64-bit.
 
 ## Set up
 
-1. On the PC, to install the FaceLink module: in VRCFaceTracking open **Module Registry**, use
-   the option to install a local module, and choose **FaceLink-VRCFT-1.1.2.zip**. If Windows asks whether VRCFaceTracking may use the network, allow it on
+1. On the PC, to install the FaceLink module: in VRCFaceTracking open **Module Registry**, then click on the plus button next to **Install Module from .zip**, and choose **FaceLink-VRCFT-1.1.2.zip**. If Windows asks whether VRCFaceTracking may use the network, allow it on
    private networks.
-2. Phone and PC on the same Wi-Fi.
+2. Phone and PC must be on the same Network.
 3. Open FaceLink and enter your PC's IP address, or tap **Auto Detect PC Running VRChat**
    (VRChat must be running).
 4. Go LIVE on the phone, then start (or restart) VRCFaceTracking. The module waits up to
