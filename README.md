@@ -6,10 +6,10 @@ on your PC.
 
 ## Download
 
-From the [latest release](../../releases/latest):
+- [**FaceLink-1.0.apk**](https://github.com/Yochir/FaceLink/releases/latest/download/FaceLink-1.0.apk): the Android app
+- [**FaceLink-VRCFT-1.1.2.zip**](https://github.com/Yochir/FaceLink/releases/latest/download/FaceLink-VRCFT-1.1.2.zip): the FaceLink module for VRCFaceTracking on your PC
 
-- **FaceLink-1.0.apk**: the Android app
-- **FaceLink-VRCFT-1.1.2.zip**: the FaceLink module for VRCFaceTracking on your PC
+Both are also on the [latest release](../../releases/latest) page.
 
 ## Install
 
