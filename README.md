@@ -2,7 +2,7 @@
 
 Face tracking for VRChat from your Android phone. FaceLink tracks your face with the
 front camera and streams it to [VRCFaceTracking](https://github.com/benaclejames/VRCFaceTracking)
-on your PC, the same way an iPhone running Live Link does.
+on your PC.
 
 On Google Pixel phones (Tensor chips) it runs at 60 fps on the phone's AI chip. Other
 phones use the GPU.
@@ -21,8 +21,7 @@ Android 9 or newer, 64-bit.
 
 ## Set up
 
-1. On the PC, run VRCFaceTracking with a Live Link module (for example the **LiveLink**
-   module from VRCFaceTracking's module list). It listens on UDP port 11111.
+1. On the PC, run VRCFaceTracking with a module that receives on UDP port 11111.
 2. Phone and PC on the same Wi-Fi.
 3. Open FaceLink and enter your PC's IP address, or tap **Auto Detect PC Running VRChat**
    (VRChat must be running).
