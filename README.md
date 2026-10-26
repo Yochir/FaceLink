@@ -8,7 +8,7 @@ your monitor and it tracks your face with the front camera, streaming it to
 
 ## Download
 
-- [**FaceLink-1.0.apk**](https://github.com/Yochir/FaceLink/releases/latest/download/FaceLink-1.0.apk): the Android app
+- [**FaceLink-1.1.apk**](https://github.com/Yochir/FaceLink/releases/latest/download/FaceLink-1.1.apk): the Android app
 - [**FaceLink-VRCFT-1.1.2.zip**](https://github.com/Yochir/FaceLink/releases/latest/download/FaceLink-VRCFT-1.1.2.zip): the FaceLink module for VRCFaceTracking on your PC
 
 Both are also on the [latest release](../../releases/latest) page.
